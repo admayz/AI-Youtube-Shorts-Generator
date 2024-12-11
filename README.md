@@ -1,3 +1,9 @@
-pip install -r requirements.txt
+https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator
 
-python main.py
+ ```bash
+   pip install -r requirements.txt
+   ```
+
+ ```bash
+   python main.py
+   ```
